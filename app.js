@@ -9,3 +9,4 @@
 // Log entry: feat: Add basic IP-based rate limiting
 // Log entry: fix: Handle CORS errors for cross-origin requests
 // Log entry: feat: Implement JWT validation middleware for secure routes
+// Log entry: refactor: Move authentication logic to its own service
