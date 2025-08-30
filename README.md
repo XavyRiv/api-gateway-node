@@ -80,4 +80,4 @@ Open a Pull Request
 License
 Distributed under the MIT License. See LICENSE file for more information.
 
-For project updates and occasional tech thoughts, you can follow me on X (Twitter): @hexhawk_
+For project updates and occasional tech thoughts, you can follow me on X (Twitter) : )
