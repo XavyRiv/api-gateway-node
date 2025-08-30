@@ -13,3 +13,4 @@
 // Log entry: test: Add initial tests for the health check endpoint
 // Log entry: docs: Update README with new features list
 // Log entry: fix: Correctly parse authorization header from requests
+// Log entry: perf: Optimize logging to reduce I/O blocking
