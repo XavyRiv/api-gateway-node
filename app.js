@@ -4,3 +4,4 @@
 // Log entry: feat: Add basic health check endpoint
 // Log entry: refactor: Structure project folders for routes and middleware
 // Log entry: feat: Implement request logging middleware
+// Log entry: chore: Install nodemon for development auto-restarts
