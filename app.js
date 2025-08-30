@@ -5,3 +5,4 @@
 // Log entry: refactor: Structure project folders for routes and middleware
 // Log entry: feat: Implement request logging middleware
 // Log entry: chore: Install nodemon for development auto-restarts
+// Log entry: docs: Add initial project setup instructions to README
