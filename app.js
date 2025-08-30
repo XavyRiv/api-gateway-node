@@ -12,3 +12,4 @@
 // Log entry: refactor: Move authentication logic to its own service
 // Log entry: test: Add initial tests for the health check endpoint
 // Log entry: docs: Update README with new features list
+// Log entry: fix: Correctly parse authorization header from requests
