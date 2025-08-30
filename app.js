@@ -8,3 +8,4 @@
 // Log entry: docs: Add initial project setup instructions to README
 // Log entry: feat: Add basic IP-based rate limiting
 // Log entry: fix: Handle CORS errors for cross-origin requests
+// Log entry: feat: Implement JWT validation middleware for secure routes
