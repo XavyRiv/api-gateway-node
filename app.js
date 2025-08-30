@@ -6,3 +6,4 @@
 // Log entry: feat: Implement request logging middleware
 // Log entry: chore: Install nodemon for development auto-restarts
 // Log entry: docs: Add initial project setup instructions to README
+// Log entry: feat: Add basic IP-based rate limiting
