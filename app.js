@@ -2,3 +2,4 @@
 
 // Log entry: feat: Initial Express server setup
 // Log entry: feat: Add basic health check endpoint
+// Log entry: refactor: Structure project folders for routes and middleware
