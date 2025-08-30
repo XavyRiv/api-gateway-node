@@ -11,3 +11,4 @@
 // Log entry: feat: Implement JWT validation middleware for secure routes
 // Log entry: refactor: Move authentication logic to its own service
 // Log entry: test: Add initial tests for the health check endpoint
+// Log entry: docs: Update README with new features list
