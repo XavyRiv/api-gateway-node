@@ -14,3 +14,4 @@
 // Log entry: docs: Update README with new features list
 // Log entry: fix: Correctly parse authorization header from requests
 // Log entry: perf: Optimize logging to reduce I/O blocking
+// Log entry: chore: Update dependencies to latest versions
